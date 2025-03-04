@@ -3,7 +3,7 @@
 이 저장소는 **Cloudflare Pages에서 호스팅되는 devdive의 정적 자산 저장소**입니다.  
 이미지, 로고 및 기타 정적 파일을 저장하고 제공하는 용도로 사용되며, 애플리케이션 코드는 포함되지 않습니다.  
 Auth0 테넌시 설정의 로고 이미지 또한 이 저장소의 URL을 사용하고 있습니다.  
-사이트 URL: https://devdive-assets.pages.dev/
+사이트 URL: https://devdive-assets.pages.dev/  
 Cloudflare URL: https://dash.cloudflare.com/866b37a19ac674268ef37294d0f41de4/pages/view/devdive-assets
 
 ## 📂 자산 접근 방법
